@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 6th-semester B.Tech.<br>Computer Science and<br>Engineering student at<br>Government Engineering College<br>Wayanad, and I expect to<br>graduate in the year 2024. I am<br>a core project team member of<br>the Google Developers Student<br>Club (GDSC) at GECW chapter. I<br>passionately learn and develop<br>mobile applications in Flutter<br>and environment/level design<br>for PC games in Unreal/Unity<br>Engine.
+I am a 6th-semester B.Tech. Computer Science and Engineering student at Government Engineering College Wayanad, and I expect to graduate in the year 2024. I am a core project team member of the Google Developers Student<br>Club (GDSC) at GECW chapter. I passionately learn and develop mobile applications in Flutter and environment/level design for PC games in Unreal/Unity Engine.
 
 
 # 💻 Tech Stack:
