@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 8th-semester B.Tech. Computer Science and Engineering student at Government Engineering College Wayanad, and I expect to graduate in the year 2024. I am a core project team member of the Google Developers Student Club (GDSC) at GECW chapter. I passionately learn and develop mobile applications in Flutter and environment/level design for PC games in Unreal/Unity Engine. I also have a strong interest in Artificial Intelligence and Deep learning
+ graduated with a B.Tech. in Computer Science and Engineering from Government Engineering College Wayanad in 2024. As a core project team member of the Google Developers Student Club (GDSC) at the GECW chapter, I was passionate about learning and developing mobile applications using Flutter, as well as environment and level design for PC games in Unreal/Unity Engine. I also have a strong interest in Artificial Intelligence and Deep Learning.
 
 
 
